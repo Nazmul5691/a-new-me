@@ -33,9 +33,45 @@
     margin-top: 32px;
     margin-right: 230px;
     margin-left: 800px;
+    /* margin-bottom: 166px; */
     width: 150px;
     height: 50px;
     border-radius: 5px;
     background: #F15B22;
     color: white;
+}
+.image-div{
+    margin-top:140px;
+    margin-left: 150px;
+    
+}
+.image-class{
+    width: 500px;
+    height: 600px;
+}
+
+
+.failure-section{
+    display: flex;
+    /* height: 100vh; */
+}
+.failure-heading{
+    padding-top: 370px;
+    padding-right: 450px;
+    
+}
+
+.failure-description{
+    padding-top: 24px;
+    padding-right: 250px;
+}
+
+ul{
+    margin-top: 16px;
+}
+.failure-list li{
+    list-style-type: none;
+}
+.failure-content{
+    padding-left: 100px;
 }
