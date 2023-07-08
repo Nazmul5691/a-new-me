@@ -75,3 +75,42 @@ ul{
 .failure-content{
     padding-left: 100px;
 }
+
+.plans-heading{
+    text-align: center;
+    padding-top: 200px;
+}
+.plans-item{
+    display: flex;
+    justify-content: space-around;
+    padding-top: 55px;
+    
+}
+.div1{
+    padding-left: 150px;
+}
+.div4{
+    padding-right: 150px;
+}
+
+ h2{
+    text-align: center;
+    margin-top: 18px;
+}
+.web-img-class{
+    padding-left: 55px;
+}
+
+.js-img-class{
+    padding-right: 4px;
+}
+.smoke-img-class{
+    padding-left: 30px;
+}
+.ecommerce-img-class{
+    padding-left: 10px;
+}
+
+.plans-pera{
+    text-align: center;
+}
